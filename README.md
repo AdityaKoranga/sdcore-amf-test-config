@@ -1,0 +1,1 @@
+# sdcore-amf-test-config
